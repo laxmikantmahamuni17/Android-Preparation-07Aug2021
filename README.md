@@ -13,5 +13,8 @@ https://www.geeksforgeeks.org/mvvm-model-view-viewmodel-architecture-pattern-in-
  https://www.raywenderlich.com/9475-constraintlayout-tutorial-for-android-complex-layouts 
 & https://www.geeksforgeeks.org/constraintlayout-in-android/
 
+**Android Data Binding introduced in Android M **
+https://www.journaldev.com/11780/android-data-binding
+
 
 
