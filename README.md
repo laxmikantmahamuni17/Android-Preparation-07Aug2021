@@ -15,6 +15,6 @@ https://www.geeksforgeeks.org/mvvm-model-view-viewmodel-architecture-pattern-in-
 
 **Android Data Binding introduced in Android M **
 https://www.journaldev.com/11780/android-data-binding
-
+https://www.journaldev.com/11780/android-data-binding
 
 
