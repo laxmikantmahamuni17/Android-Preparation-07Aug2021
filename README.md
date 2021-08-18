@@ -21,3 +21,8 @@ https://www.journaldev.com/11780/android-data-binding
 https://developer.android.com/guide/components/activities/tasks-and-back-stack
 https://medium.com/swlh/truly-understand-tasks-and-back-stack-intent-flags-of-activity-2a137c401eca#c5c3
 
+
+
+**ViewModel with LiveData in Android**
+https://blog.mindorks.com/understanding-livedata-in-android
+https://www.innominds.com/blog/introduction-to-livedata-in-android
