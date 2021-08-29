@@ -26,3 +26,7 @@ https://medium.com/swlh/truly-understand-tasks-and-back-stack-intent-flags-of-ac
 **ViewModel with LiveData in Android**
 https://blog.mindorks.com/understanding-livedata-in-android
 https://www.innominds.com/blog/introduction-to-livedata-in-android
+
+** Rules for specifying the build version while relaese **
+https://semver.org/
+
