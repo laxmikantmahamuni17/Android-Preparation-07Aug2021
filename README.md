@@ -30,3 +30,7 @@ https://www.innominds.com/blog/introduction-to-livedata-in-android
 **Rules for specifying the build version while relaese**
 https://semver.org/
 
+**All about Jetpack components - **
+https://developer.android.com/jetpack
+https://developer.android.com/jetpack/androidx/explorer?case=all
+https://medium.com/androiddevelopers/whats-new-in-jetpack-1891d205e136
