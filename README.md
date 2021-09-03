@@ -35,3 +35,8 @@ https://semver.org/
 https://developer.android.com/jetpack
 https://developer.android.com/jetpack/androidx/explorer?case=all
 https://medium.com/androiddevelopers/whats-new-in-jetpack-1891d205e136
+
+
+**Job Scheduler**
+https://www.youtube.com/watch?v=gLgtgMiDrOE
+https://www.youtube.com/watch?v=HcY4NZPG_5I
