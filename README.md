@@ -40,3 +40,13 @@ https://medium.com/androiddevelopers/whats-new-in-jetpack-1891d205e136
 **Job Scheduler**
 https://www.youtube.com/watch?v=gLgtgMiDrOE
 https://www.youtube.com/watch?v=HcY4NZPG_5I
+
+
+All about - Android Gradle Plugin (AGP) Versioning
+https://developer.android.com/studio/releases/gradle-plugin#updating-plugin
+https://medium.com/androiddevelopers/new-apis-in-the-android-gradle-plugin-f5325742e614
+https://docs.gradle.org/current/userguide/groovy_build_script_primer.html
+
+Groovy DSL Vs Kotlin DSL
+https://medium.com/sciforce/kotlin-vs-groovy-which-language-to-choose-47e4369fb905
+
