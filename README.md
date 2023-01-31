@@ -2,7 +2,9 @@
 
 ********:=:**** **********Android-Preparation-07Aug2021********** **:=:**
 ******Interview Preparation of various Topics**********
-Android Gabage Collection - https://www.geeksforgeeks.org/how-garbage-collector-works-in-android/
+Android Gabage Collection - 
+1. https://www.geeksforgeeks.org/how-garbage-collector-works-in-android/
+2. https://proandroiddev.com/everything-you-need-to-know-about-memory-leaks-in-android-d7a59faaf46a
 
 #####################################################################################################
 
